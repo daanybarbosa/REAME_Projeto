@@ -47,12 +47,6 @@ O sistema deve permitir o cadastro dos vacinadores (funcionários das UBS e Hosp
 O sistema deve permitir a inclusão das vacinas disponíveis para 1ª dose. 
 * Cadastro de vacinas 2ª dose: <br>
 O sistema deve permitir a inclusão das vacinas disponíveis para 2ª dose, caso seja preciso. 
-* Status de usuários vacinados: <br>
-O sistema deve permitir que o posto de vacinação altere o status dos usuários já vacinados.
-* Cadastro e informações de campanhas de vacinação: <br>
-O sistema deve permitir que os postos de vacinação cadastre campanhas e informações sobre as vacinas disponibilizadas.
-* Confirmação de presença na campanha: <br>
-O sistema deve permitir que o orgão de saúde confirme a vacina tomada pelo o usuário. 
 * Consulta de histórico de vacinas: <br>
 O sistema deve permitir a visualização do histórico das vacinas tomadas pelo o usuário.
 
@@ -83,6 +77,7 @@ O sistema deve permitir a visualização do histórico das vacinas tomadas pelo 
 - Firebase
 - Android SDK
 - Java SDK
+- Android Nativo
 
 
 ## 5. Apresentação do Sistema
@@ -93,11 +88,11 @@ O sistema deve permitir a visualização do histórico das vacinas tomadas pelo 
 </p>
 > Tela mobile de apresentação e login do usuário
 
-#### Selecionar o tipo de Login 
+#### Selecionar o tipo de Cadastro 
 <p align="center">
-    <img src="img_readme/img_selecionar_login.jpeg">
+    <img src="img_readme/img_selecionar_cadastro.jpeg">
 </p>
-> Tela para selecionar o tipo de usuário: Usuário, UBS ou Vacinador. 
+> Tela para selecionar o tipo de cadastro que será realizado: Usuário, UBS ou Vacinador. 
 
 #### Cadastrar o Usuário
 <p align="center">
